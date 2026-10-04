@@ -1,0 +1,13 @@
+/Input/
+/.work/
+*.zip
+.env
+.env.*
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.log
+/artifacts/
+/node_modules/
